@@ -13,7 +13,7 @@ Instructions on how to run it:
 -Download and Install XAMPP or WAMPP Server
 -Download and Install Microsoft SQL Workbench
 -Start XAMPP or WAMPP and MySQL Workbench
--Run the SQL Query for creating the College Database
+-Copy the code inside the create database query file and run the SQL Query for creating the College Database on MySQL Workbench
 -Create a folder called CollegeManagement in your source/repos folder
 -Paste the files in this repository inside that folder
 -Open Visual Studio 2022
